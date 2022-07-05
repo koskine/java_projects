@@ -1,0 +1,44 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/iirok/Desktop/Koulu/Ohjelmointi3/mhiiko/Round10/javadocstandings/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/iirok/Desktop/Koulu/Ohjelmointi3/mhiiko/Round10/javadocstandings/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'standings 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'standings 1.0-SNAPSHOT API'
+fi.tuni.prog3.standings
+'C:/Users/iirok/Desktop/Koulu/Ohjelmointi3/mhiiko/Round10/javadocstandings/src/main/java/fi/tuni/prog3/standings/Standings.java'
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\src\main\java = 1647603475172
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\allclasses-index.html = 1647605504021
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\allpackages-index.html = 1647605504024
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\element-list = 1647605503973
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\help-doc.html = 1647605504043
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\index-all.html = 1647605504037
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\index.html = 1647605504039
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\jquery-ui.overrides.css = 1647605504076
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\member-search-index.js = 1647605504028
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\module-search-index.js = 1647605504025
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\overview-tree.html = 1647605504011
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\package-search-index.js = 1647605504026
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\script.js = 1647605504046
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\search.js = 1647605504050
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\stylesheet.css = 1647605504044
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\tag-search-index.js = 1647605504029
+C:\Users\iirok\Desktop\Koulu\Ohjelmointi3\mhiiko\Round10\javadocstandings\target\site\apidocs\type-search-index.js = 1647605504027
